@@ -1,11 +1,11 @@
-## RLSongs
+# RLSongs
 There are no publicly released lists that displayed what files were which songs, until now.
 
 A super simple GUI to delete / remove specific songs from your Rocket League directory.
 
 **WIP**
 
-# Key Features
+## Key Features
 
 - Automated File Removal For Updates / File Verification
 
@@ -13,7 +13,7 @@ A super simple GUI to delete / remove specific songs from your Rocket League dir
 
 - Song Search Bar
 
-# Why Use This?
+## Why Use This?
 
 This is a much easier approach compared to searching the files and deleting them yourself, you *COULD* use a bat file to remove any song IDs you've manually added and run it each time an update occurs, something I've been doing myself.
 
