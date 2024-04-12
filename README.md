@@ -5,6 +5,8 @@ A super simple GUI to delete / remove specific songs from your Rocket League dir
 
 **WIP**
 
+[Latest Release](https://github.com/Aeyth8/RLSongs/releases)
+
 ## Key Features
 
 - Automated File Removal For Updates / File Verification (WIP)
