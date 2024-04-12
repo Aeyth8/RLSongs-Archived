@@ -7,7 +7,7 @@ A super simple GUI to delete / remove specific songs from your Rocket League dir
 
 ## Key Features
 
-- Automated File Removal For Updates / File Verification
+- Automated File Removal For Updates / File Verification (WIP)
 
 - Click And Clack Display
 
